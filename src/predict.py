@@ -7,6 +7,12 @@ warnings.filterwarnings('ignore')
 model = joblib.load(MODEL_PATH)
 
 def predict_failure(data):
+    """Makes prediction on the data provided.
+    Args:
+        data (list): contains a list of values as a parameters for prediction
+    Returns:
+        prediction made by model. (0 or 1)"""
+    
     data = np.array(data).reshape(1, -1)
     prediction = model.predict(data)
     return prediction
