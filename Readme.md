@@ -53,7 +53,7 @@ Predictive-Maintenance-Using-ML/
 2. **Create and activate a virtual environment:**
    ```bash
    python -m venv myenv
-   source myenv/bin/activate
+   source myenv/Scripts/activate
    ```
 
 3. **Install dependencies:**
