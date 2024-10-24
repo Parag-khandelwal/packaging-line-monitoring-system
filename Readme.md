@@ -1,5 +1,5 @@
 
-# Predictive-Maintenance-ai4i
+# Packaging Line Monitoring System
 
 This project aims to predict machine failures based on various operational parameters, helping industries anticipate maintenance needs and avoid costly downtime. The model uses sensor data such as temperature, rotational speed, torque, and tool wear to classify if a machine failure will occur.
 
