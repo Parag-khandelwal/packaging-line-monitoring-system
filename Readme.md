@@ -47,7 +47,7 @@ Predictive-Maintenance-Using-ML/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Parag-khandelwal/predictive-maintenance-ai4i.git
+   git clone https://github.com/Parag-khandelwal/packaging-line-monitoring-system.git
    ```
 
 2. **Create and activate a virtual environment:**
